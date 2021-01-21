@@ -16,8 +16,8 @@
 */
 class Recursion {
     public static void main(String[] args) {
-      //countdown(5);
-      System.out.println(multiply(3, 4));
+      countdown(5);
+      //System.out.println(multiply(3, 4));
       //System.out.println(isPalindrome(""));
       //System.out.println(isPalindrome("a"));
       //System.out.println(isPalindrome("racecar"));
