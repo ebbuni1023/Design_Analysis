@@ -14,7 +14,7 @@
 - What's next? (Beyond this lecture)
 
 */
-class Main {
+class Recursion {
     public static void main(String[] args) {
       //countdown(5);
       System.out.println(multiply(3, 4));
