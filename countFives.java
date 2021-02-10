@@ -13,4 +13,18 @@ public class countFives {
             return countFives(num / 10);
         }
     }
+
+    // public static int countFives(int num) {
+    //     int digit;
+    //     if(num == 0){
+    //       return 0;
+    //     }
+    //     if(num%10 == digit) //This will check for the number we are looking for, in this case 5.
+    //     {
+    //       return 1 + countFives(num/10, digit); //This adds 1 to the number of times we have found the number we are looking for
+    //     }
+    //     else{
+    //       return countFives(num/10, digit);//This just returns the number of times we have found the number we are looking for without adjusting that number.
+    //     }
+    //   }
 }
